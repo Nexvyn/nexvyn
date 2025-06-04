@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Fullstack Developer** and software engineer based in India, currently pursuing a **BCA**.  
+I'm a **Fullstack Developer** and software engineer based in **India**, currently pursuing a **BCA**.  
 I enjoy solving real-world problems through code and believe in learning by building practical, hands-on projects.
 
 I'm passionate about technology and continuously explore new tools, frameworks, and workflows.  
@@ -15,9 +15,9 @@ I'm **adaptable**, value **time**, and am committed to **continuous learning** a
 ## 📬 Get in Touch
 
 Want to connect or collaborate? Feel free to:
-<!-- 
-- 📧 [Email Me](mailto:your@email.com)
-- 🐦 [Follow me on X](https://x.com/yourusername) -->
+
+- 📧 Email Me:- Amangupta.ans@gmail.com 
+- 🐦 [Follow me on X](https://x.com/Amansrc)
 
 _I'll try to respond as soon as I can. No spam or unsolicited offers, please._
 
@@ -29,13 +29,13 @@ _I'll try to respond as soon as I can. No spam or unsolicited offers, please._
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code, Postman, Neovim
-<!-- 
+- **Tools:** Git, GitHub, VS Code, Postman
+
 ## 📌 Projects
 
-- 🚀 [Project Name](https://link-to-project.com) – Short description of what it does.
-- 🔐 [Another Project](https://github.com/yourrepo) – A few words about this one too.
+- 🚀 [PropertyPro](property-pro-r9ya.vercel.app) -
+- 🔐 [Colony Management System](https://rws-website-lemon.vercel.app/) – 
 
---- -->
+---
 
 Thanks for stopping by! 😊
