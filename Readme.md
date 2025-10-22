@@ -46,11 +46,5 @@ _I'll try to respond as soon as I can. No spam or unsolicited offers, please._
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 📌 Projects
-
-- 🚀 [PropertyPro](property-pro-r9ya.vercel.app) -
-- 🔐 [Colony Management System](https://rws-website-lemon.vercel.app/) – 
-
----
 
 Thanks for stopping by! 😊
